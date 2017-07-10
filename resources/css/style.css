@@ -40,4 +40,6 @@ p.footer {
 
 footer {
   background-color: dimgray;
+  text-align: left;
+  color: white;
 }
